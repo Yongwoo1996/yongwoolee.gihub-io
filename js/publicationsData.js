@@ -1,6 +1,5 @@
 const publications = [
   {
-    imagePath: ".png",
     title: "Addressing transconductance-bandwidth trade-off by three-dimensional electrolyte-surrounded organic electrochemical transistors",
     pdfLink: "",
     authors:
