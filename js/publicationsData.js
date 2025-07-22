@@ -1,60 +1,50 @@
 const publications = [
   {
-    imagePath: "img/thumbnails/panacea.png",
-    title: "Panacea: Novel DNN Accelerator using Accuracy-Preserving Asymmetric Quantization and Energy-Saving Bit-Slice Sparsity",
-    pdfLink: "https://arxiv.org/abs/2412.10059",
-    codeLinks: {
-      Slides: "../files/HPCA25_slides.pdf",
-    },
+    imagePath: ".png",
+    title: "Addressing transconductance-bandwidth trade-off by three-dimensional electrolyte-surrounded organic electrochemical transistors",
+    pdfLink: "",
     authors:
-      "<b>Dongyun Kam</b>, Myeongji Yun, Sunwoo Yoo, Seungwoo Hong, Zhengya Zhang, Youngjoo Lee",
-    conference: "IEEE International Symposium on High-Performance Computer Architecture (HPCA-31), 2025",
+      "<b>Yongwoo Lee*</b>, Seongjun Park*, Jimin Kwon, Kang-il Song, Sungjune Jung",
+    conference: "submitted, 2025",
     selected: true,
   },
   {
-    imagePath: "img/thumbnails/boss.png",
-    title: "A 21.9 ns 15.7 Gbps/mm² (128, 15) BOSS FEC Decoder for 5G/6G URLLC Applications",
-    pdfLink: "https://ieeexplore.ieee.org/abstract/document/10454363",
-    codeLinks: {
-      Slides: "../files/ISSCC24_slides.pdf",
-    },
+    imagePath: ".png",
+    title: "Stabilizing Schottky junction in conjugated polymer diodes enables long-term reliable radio-frequency energy harvesting on plastic",
+    pdfLink: "https://www.nature.com/articles/s41528-024-00326-y",
     authors:
-      "<b>Dongyun Kam</b>, Sangbu Yun, Jeongwon Choe, Zhengya Zhang, Namyoon Lee, Youngjoo Lee",
-    conference: "IEEE International Solid-State Circuits Conference (ISSCC), 2024",
+      "<b>Yongwoo Lee</b>, Boseok Kang, Sungjune Jung, Jimin Kwon",
+    conference: " npj Flexible Electronics, 8, 41, Jul. 2024",
     selected: true,
   },
   {
-    imagePath: "img/thumbnails/overlap_polar.png",
-    title: "Low-latency SCL polar decoder architecture using overlapped pruning operations",
-    pdfLink: "https://ieeexplore.ieee.org/abstract/document/10014433",
+    imagePath: ".png",
+    title: "Dual-Gate Carbon Nanotube Thin-Film Transistors With Printed Channel and Passivation Interlayer on Plastic Foil",
+    pdfLink: "https://ieeexplore.ieee.org/document/10630846",
     codeLinks: {},
     authors:
-      "<b>Dongyun Kam</b>, Byeong Yong Kong, Youngjoo Lee",
-    conference: "IEEE Transactions on Circuits and Systems I: Regular Papers (TCAS-I), 2023",
+      "<b>Yongwoo Lee*</b>, Haksoon Jung*, Youngmin Jo, Sanghoon Baek, Hyunjin Park, Seongjun Park, Sungjune Jung, Yong-Young Noh, Jimin Kwon",
+    conference: "IEEE Electron Device Letters, 45, 10, Aug. 2024",
     selected: true,
   },
   {
-    imagePath: "img/thumbnails/ternary.png",
-    title: "Design and Evaluation Frameworks for Advanced RISC-based Ternary Processor",
-    pdfLink: "https://ieeexplore.ieee.org/abstract/document/9774584",
-    codeLinks: {
-      Slides: "../files/DATE22_slides.pdf",
-    },
+    imagePath: ".png",
+    title: "Tunable organic active neural probe enabling near-sensor signal processing",
+    pdfLink: "https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/adma.202301782",
+    codeLinks: {},
     authors:
-      "<b>Dongyun Kam*</b>, Jung Gyu Min*, Jongho Yoon, Sunmean Kim, Seokhyeong Kang, Youngjoo Lee",
-    conference: "Design, Automation & Test in Europe Conference & Exhibition (DATE), 2022",
+      "<b>Yongwoo Lee</b>, Alejandro Carnicer-Lombarte, Sanggil Han, Ben J. Woodington, Seungjin Chai, Anastasios G. Polyravas, Santiago Velasco-Bosom, Eun-Hee Kim, George G. Malliaras, Sungjune Jung",
+    conference: "Advanced Materials, 230178, May 2023",
     selected: true,
   },
  {
-    imagePath: "img/thumbnails/mem_polar.png",
-    title: "A 1.1μs 1.56Gb/s/mm2 Cost-Efficient Large-List SCL Polar Decoder Using Fully-Reusable LLR Buffers in 28nm CMOS Technology",
-    pdfLink: "https://ieeexplore.ieee.org/abstract/document/9830317",
-    codeLinks: {
-      Slides: "../files/VLSI22_slides.pdf",
-    },
+    imagePath: ".png",
+    title: "Reliable inkjet contact metallization on printed polymer semiconductors for fabricating staggered TFTs",
+    pdfLink: "https://pubs.aip.org/aip/apl/article/116/15/153301/38130/Reliable-inkjet-contact-metallization-on-printed",
+    codeLinks: {},
     authors:
-      "<b>Dongyun Kam</b>, Byeong Yong Kong, Youngjoo Lee",
-    conference: "IEEE Symposium on VLSI Technology and Circuits (VLSI Technology and Circuits), 2022",
+      "<b>Yongwoo Lee</b>, Jimin Kwon, Sungyeop Jung, Woojo Kim, Sanghoon Baek, Sungjune Jung",
+    conference: "Applied Physics Letters, 116, 153301, Apr. 2020",
     selected: true,
   },
 ];
